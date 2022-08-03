@@ -71,6 +71,7 @@ def partialMatches(s1, s2):
             s1.replace(element, '')
             s2.replace(element, '')
     return count
+
 #################################################
 # hw3-standard-functions
 #################################################
